@@ -1,0 +1,11 @@
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\bin\Debug\MultiKeyRSS.exe.config
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\bin\Debug\MultiKeyRSS.exe
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\bin\Debug\MultiKeyRSS.pdb
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\obj\Debug\MultiKeyRSS.csprojResolveAssemblyReference.cache
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\obj\Debug\MultiKeyRSS.frmMain.resources
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\obj\Debug\MultiKeyRSS.Properties.Resources.resources
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\obj\Debug\MultiKeyRSS.ucPrimeKey.resources
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\obj\Debug\MultiKeyRSS.csproj.GenerateResource.Cache
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\obj\Debug\MultiKeyRSS.csproj.CoreCompileInputs.cache
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\obj\Debug\MultiKeyRSS.exe
+C:\Users\emiro\Desktop\MultiKeyRSS\MultiKeyRSS\obj\Debug\MultiKeyRSS.pdb
